@@ -31,12 +31,12 @@
 
 ### 2. リポジトリをクローン
 `cd ~`
-`git clone git@github.com:yukip-20000418/gem001.git`
+`git clone git@github.com:yukip-20000418/gem002.git`
 
 作成する場合
 `git init`
 `git add .`
-`git commit -m "Initial commit: Flutter Web + Go backend setup"`
+`git commit -m "init"`
 
 ```
 cat << 'EOF' > .gitignore
